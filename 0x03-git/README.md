@@ -1,1 +1,3 @@
-Completing my git alx project
+#My first readme
+Updating my README
+
